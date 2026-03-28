@@ -63,7 +63,7 @@ Install Python and make sure to check:
 
 Open Command Prompt and run:
 
-git clone https://github.com/YOURUSERNAME/smart-expense-tracker
+git clone https://github.com/mohityadav2410041-art/smart-expense-tracker.git
 
 ---
 
@@ -163,66 +163,7 @@ View expense:
 
 ---
 
-## 🚀 How to Upload Project to GitHub
 
-Follow these steps carefully:
-
-### Step 1: Initialize Git
-
-git init
-
----
-
-### Step 2: Add Files
-
-git add .
-
----
-
-### Step 3: Commit Changes
-
-git commit -m "Initial Expense Tracker Project"
-
----
-
-### Step 4: Create Repository on GitHub
-
-Go to:
-https://github.com
-
-Click "New Repository"
-
-Repository Name:
-smart-expense-tracker
-
-Set it to PUBLIC
-
-Click "Create Repository"
-
----
-
-### Step 5: Connect Local Project to GitHub
-
-git branch -M main
-
-git remote add origin https://github.com/YOURUSERNAME/smart-expense-tracker.git
-
----
-
-### Step 6: Push Code
-
-git push -u origin main
-
----
-
-## 📌 Important Notes
-
-- Do NOT submit links with /tree/main or /blob
-- Submit only the root repository URL:
-
-https://github.com/YOURUSERNAME/smart-expense-tracker
-
----
 
 ## 📈 Features Summary
 
@@ -238,7 +179,7 @@ https://github.com/YOURUSERNAME/smart-expense-tracker
 
 ## 👨‍💻 Author
 
-Your Name
+MOHIT
 
 ---
 
